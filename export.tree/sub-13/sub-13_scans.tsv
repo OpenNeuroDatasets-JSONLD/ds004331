@@ -1,0 +1,15 @@
+filename	acq_time	operator	randstr
+anat/sub-13_T1w.nii.gz	2019-08-20T13:41:57.690000	M. Garvert/K.Träger	51f0fa4d
+func/sub-13_task-localizer_run-001_bold.nii.gz	2020-07-28T11:34:42.120000	Neubert	843c2f8e
+func/sub-13_task-main_run-001_bold.nii.gz	2020-07-28T11:43:31.242500	Neubert	39347c48
+func/sub-13_task-main_run-002_bold.nii.gz	2020-07-28T11:50:20.122500	Neubert	24946d3d
+func/sub-13_task-main_run-003_bold.nii.gz	2020-07-28T11:57:21.352500	Neubert	fb910ad9
+func/sub-13_task-main_run-004_bold.nii.gz	2020-07-28T12:04:15.085000	Neubert	a3a671c6
+func/sub-13_task-main_run-005_bold.nii.gz	2020-07-28T12:12:18.257500	Neubert	3a7c0f8e
+func/sub-13_task-main_run-006_bold.nii.gz	2020-07-28T12:19:05.722500	Neubert	fc2dcd85
+func/sub-13_task-main_run-007_bold.nii.gz	2020-07-28T12:25:57.685000	Neubert	09630bc6
+func/sub-13_task-main_run-008_bold.nii.gz	2020-07-28T12:33:45.320000	Neubert	ad7ad605
+func/sub-13_task-main_run-009_bold.nii.gz	2020-07-28T12:44:20.987500	Neubert	168401b4
+func/sub-13_task-main_run-0010_bold.nii.gz	2020-07-28T12:51:11.807500	Neubert	dbf7dafd
+func/sub-13_task-main_run-0011_bold.nii.gz	2020-07-28T12:58:13.407500	Neubert	de71e1d8
+func/sub-13_task-main_run-0012_bold.nii.gz	2020-07-28T13:05:04.802500	Neubert	c1067250
