@@ -17,5 +17,6 @@
     "ReferencesAndLinks": [
         "https://biorxiv.org/cgi/content/short/2022.08.12.503484v1"
     ],
-    "HowToAcknowledge": "https://www.biorxiv.org/content/10.1101/2022.08.12.503484v1"
+    "HowToAcknowledge": "https://www.biorxiv.org/content/10.1101/2022.08.12.503484v1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004331.v1.0.0"
 }
