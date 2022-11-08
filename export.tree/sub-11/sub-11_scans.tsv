@@ -1,0 +1,15 @@
+filename	acq_time	operator	randstr
+anat/sub-11_T1w.nii.gz	2020-02-25T17:37:25.690000	K.Williams/O.Numssen	7da2efce
+func/sub-11_task-localizer_run-001_bold.nii.gz	2020-07-21T16:09:08.682500	Nicole Pampus	63c800fd
+func/sub-11_task-main_run-001_bold.nii.gz	2020-07-21T16:17:49.980000	Nicole Pampus	9767e206
+func/sub-11_task-main_run-002_bold.nii.gz	2020-07-21T16:24:47.602500	Nicole Pampus	a0484268
+func/sub-11_task-main_run-003_bold.nii.gz	2020-07-21T16:31:47.247500	Nicole Pampus	ce26ea57
+func/sub-11_task-main_run-004_bold.nii.gz	2020-07-21T16:38:44.560000	Nicole Pampus	8fe24c90
+func/sub-11_task-main_run-005_bold.nii.gz	2020-07-21T16:47:02.945000	Nicole Pampus	1736dd1a
+func/sub-11_task-main_run-006_bold.nii.gz	2020-07-21T16:53:59.817500	Nicole Pampus	f2c10eae
+func/sub-11_task-main_run-007_bold.nii.gz	2020-07-21T17:00:50.122500	Nicole Pampus	96008a28
+func/sub-11_task-main_run-008_bold.nii.gz	2020-07-21T17:07:49.827500	Nicole Pampus	48fe1762
+func/sub-11_task-main_run-009_bold.nii.gz	2020-07-21T17:14:38.995000	Nicole Pampus	558a8fc7
+func/sub-11_task-main_run-0010_bold.nii.gz	2020-07-21T17:21:30.012500	Nicole Pampus	1706792a
+func/sub-11_task-main_run-0011_bold.nii.gz	2020-07-21T17:28:16.505000	Nicole Pampus	1653d290
+func/sub-11_task-main_run-0012_bold.nii.gz	2020-07-21T17:35:04.222500	Nicole Pampus	1c6fabdd
