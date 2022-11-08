@@ -3,9 +3,9 @@ This dataset contains the raw fMRI data accompanying the paper "The spatiotempor
 The dataset includes:
 
 1. anat/ anatomical scans (T1-weighted images) for each subject
-2. func/ whole-brain EPI data from 13 runs (1 localizer, 12 main experiment) for each participants. The events file conatin the onsets, duration and trial types for all trials in the corresponding run.
+2. func/ whole-brain EPI data from 13 runs (1 localizer, 12 main experiment) for each participants. The events file contain the onsets, durations and trial types for all trials in the corresponding run.
 
-For a full description of the paradigm and the employed procedures please see the manuscript.  
+For a full description of the paradigm and the employed procedures please see the paper.  
 
 Results for the first-level analyses for this data can be found on OSF (https://osf.io/vsc6y/). Code for the analysis of the data can be found on Github (https://github.com/Singerjohannes/object_drawing_dynamics/). 
 
