@@ -1,0 +1,15 @@
+filename	acq_time	operator	randstr
+anat/sub-14_T1w.nii.gz	2020-01-28T12:13:37.482500	S. Paul	8f801176
+func/sub-14_task-localizer_run-001_bold.nii.gz	2020-07-28T15:00:15.550000	J. Singer	82ce8a3d
+func/sub-14_task-main_run-001_bold.nii.gz	2020-07-28T15:08:46.477500	J. Singer	28396726
+func/sub-14_task-main_run-002_bold.nii.gz	2020-07-28T15:15:39.475000	J. Singer	9813cd69
+func/sub-14_task-main_run-003_bold.nii.gz	2020-07-28T15:22:31.587500	J. Singer	17f65e62
+func/sub-14_task-main_run-004_bold.nii.gz	2020-07-28T15:29:25.777500	J. Singer	9d2ce4bb
+func/sub-14_task-main_run-005_bold.nii.gz	2020-07-28T15:36:31.975000	J. Singer	f4d47c16
+func/sub-14_task-main_run-006_bold.nii.gz	2020-07-28T15:43:36.185000	J. Singer	928e7c7f
+func/sub-14_task-main_run-007_bold.nii.gz	2020-07-28T15:50:31.860000	J. Singer	3f236998
+func/sub-14_task-main_run-008_bold.nii.gz	2020-07-28T16:00:01.590000	J. Singer	371b7471
+func/sub-14_task-main_run-009_bold.nii.gz	2020-07-28T16:06:51.737500	J. Singer	ca1c9434
+func/sub-14_task-main_run-0010_bold.nii.gz	2020-07-28T16:13:51.832500	J. Singer	80fead3b
+func/sub-14_task-main_run-0011_bold.nii.gz	2020-07-28T16:20:52.485000	J. Singer	42fe799b
+func/sub-14_task-main_run-0012_bold.nii.gz	2020-07-28T16:27:56.735000	J. Singer	dcb01d1c
