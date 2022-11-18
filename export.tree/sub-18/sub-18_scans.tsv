@@ -1,0 +1,15 @@
+filename	acq_time	operator	randstr
+func/sub-18_task-localizer_run-001_bold.nii.gz	2020-08-05T12:17:55.962500	Neubert	2577ef71
+func/sub-18_task-main_run-001_bold.nii.gz	2020-08-05T12:26:30.700000	Neubert	8d6eb6b7
+func/sub-18_task-main_run-002_bold.nii.gz	2020-08-05T12:33:21.737500	Neubert	01d2c621
+func/sub-18_task-main_run-003_bold.nii.gz	2020-08-05T12:40:11.475000	Neubert	dc051b91
+func/sub-18_task-main_run-004_bold.nii.gz	2020-08-05T12:47:04.967500	Neubert	34a3cb10
+func/sub-18_task-main_run-005_bold.nii.gz	2020-08-05T12:55:29.582500	Neubert	1f35e324
+func/sub-18_task-main_run-006_bold.nii.gz	2020-08-05T13:02:22.470000	Neubert	06b1d61f
+func/sub-18_task-main_run-007_bold.nii.gz	2020-08-05T13:09:13.797500	Neubert	d4b8a9f7
+func/sub-18_task-main_run-008_bold.nii.gz	2020-08-05T13:16:04.107500	Neubert	7d536b84
+func/sub-18_task-main_run-009_bold.nii.gz	2020-08-05T13:22:53.857500	Neubert	0b0dffc9
+func/sub-18_task-main_run-0010_bold.nii.gz	2020-08-05T13:29:46.317500	Neubert	72332fe6
+func/sub-18_task-main_run-0011_bold.nii.gz	2020-08-05T13:36:39.265000	Neubert	162d1515
+func/sub-18_task-main_run-0012_bold.nii.gz	2020-08-05T13:43:36.152500	Neubert	078163d9
+anat/sub-18_T1w.nii.gz	2020-10-21T09:50:01.212500	L. Edwards	82856bff
