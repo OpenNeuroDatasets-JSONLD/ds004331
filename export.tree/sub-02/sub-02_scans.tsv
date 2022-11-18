@@ -1,0 +1,15 @@
+filename	acq_time	operator	randstr
+anat/sub-02_T1w.nii.gz	2019-10-21T11:11:06.505000	SP	48c3c2d3
+func/sub-02_task-localizer_run-001_bold.nii.gz	2020-07-14T10:58:18.822500	J. Singer/M. Hebart	3595e7e2
+func/sub-02_task-main_run-001_bold.nii.gz	2020-07-14T11:13:04.540000	J. Singer/M. Hebart	b9b6afdb
+func/sub-02_task-main_run-002_bold.nii.gz	2020-07-14T11:20:35.795000	J. Singer/M. Hebart	e1dea1df
+func/sub-02_task-main_run-003_bold.nii.gz	2020-07-14T11:27:42.717500	J. Singer/M. Hebart	9c6d3d22
+func/sub-02_task-main_run-004_bold.nii.gz	2020-07-14T11:34:52.147500	J. Singer/M. Hebart	d8d9f426
+func/sub-02_task-main_run-005_bold.nii.gz	2020-07-14T11:42:27.505000	J. Singer/M. Hebart	64cb3db3
+func/sub-02_task-main_run-006_bold.nii.gz	2020-07-14T11:50:01.680000	J. Singer/M. Hebart	0a9e7215
+func/sub-02_task-main_run-007_bold.nii.gz	2020-07-14T11:58:09.817500	J. Singer/M. Hebart	f26d7cb5
+func/sub-02_task-main_run-008_bold.nii.gz	2020-07-14T12:05:26.017500	J. Singer/M. Hebart	ec68e510
+func/sub-02_task-main_run-009_bold.nii.gz	2020-07-14T12:14:01.840000	J. Singer/M. Hebart	0c17af0f
+func/sub-02_task-main_run-0010_bold.nii.gz	2020-07-14T12:22:12.175000	J. Singer/M. Hebart	95bbbbac
+func/sub-02_task-main_run-0011_bold.nii.gz	2020-07-14T12:29:53.427500	J. Singer/M. Hebart	9cec2301
+func/sub-02_task-main_run-0012_bold.nii.gz	2020-07-14T12:37:54.232500	J. Singer/M. Hebart	a3bb8767
